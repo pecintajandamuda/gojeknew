@@ -8,7 +8,7 @@ ulang:
 
 // function change(){
 
-echo color("red","             SCRIPT GRATIS TIDAK DI JUAL \n");
+echo color("red","             PROJECT TEAM WA  \n");
 
 echo color("white","           Time  : ".date('[d-m-Y] [H:i:s]')."   \n");
 
